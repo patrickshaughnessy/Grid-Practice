@@ -1,0 +1,41 @@
+
+
+.priceDiv {
+  font-family: Helvetica;
+  font-size: 150%;
+  font-weight: 200;
+  color: gray;
+  
+}
+
+.theTotal {
+  font-size: 75%;
+  color: green;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p.little {
+  line-height: 100%;
+}
+
+.bottomBlock {
+  padding: 2em;
+  background-color: #f2f2f2;
+}
+
+
+button {
+  @btn
+
+}
+button:hover {
+  background-color: #B36EE1;
+  
+}
+
+div {
+  font-family: Helvetica;
+  
+}
+
